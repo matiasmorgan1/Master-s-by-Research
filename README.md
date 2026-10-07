@@ -11,3 +11,9 @@ This script utilises ice discharge data from Mankoff et al. (2020) to focus on 2
 
 # Howat terminus positions
 This code utilises data provided by Ian Howat for SE Greenland, and visualises it.
+
+# MAR 2015-2025 Anomaly
+Uses MAR atmospheric temperature data from 2015-2025, and 1991-2011 to create anomaly datasets for each glacier in the region of study.
+
+# Subglacialtopo_Bathy scrips
+Uses BedMachine v6 subglacial topography data alongside IBCAO bathymetry data to create combined plots.
