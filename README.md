@@ -8,3 +8,6 @@ Allows for the creation of the majority of plots used in this research project.
 
 # Mankoff et al. (2020) data manipulation
 This script utilises ice discharge data from Mankoff et al. (2020) to focus on 25 glaciers in Southeast Greenland.
+
+# Howat terminus positions
+This code utilises data provided by Ian Howat for SE Greenland, and visualises it.
