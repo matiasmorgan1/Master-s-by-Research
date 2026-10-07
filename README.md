@@ -5,3 +5,6 @@ This code allows the user, utilising an excel spreadsheet including data require
 
 # Figure Creation
 Allows for the creation of the majority of plots used in this research project.
+
+# Mankoff et al. (2020) data manipulation
+This script utilises ice discharge data from Mankoff et al. (2020) to focus on 25 glaciers in Southeast Greenland.
